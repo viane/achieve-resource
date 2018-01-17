@@ -1,2 +1,2 @@
 # achieve-resource
-This repo is main for storing something that is useful AND [ Outdated, No Longer Open Source, ... ]
+This repo is main for storing [ ```Document```, ```Application```, ... ] that is useful AND [ ```Outdated```, ```No Longer Open Source```, ... ]
